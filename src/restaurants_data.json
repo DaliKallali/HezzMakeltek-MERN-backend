@@ -1,0 +1,407 @@
+[
+  {
+    "restaurantName": "Asian Delights",
+    "city": "Tunis",
+    "country": "Tunisia",
+    "deliveryPrice": 150,
+    "estimatedDeliveryTime": 30,
+    "cuisines": ["Asian"],
+    "menuItems": [
+      { "name": "Sushi", "price": 1200 },
+      { "name": "Spring Rolls", "price": 800 },
+      { "name": "Pad Thai", "price": 950 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "Breakfast Haven",
+    "city": "Sousse",
+    "country": "Tunisia",
+    "deliveryPrice": 100,
+    "estimatedDeliveryTime": 20,
+    "cuisines": ["Breakfast"],
+    "menuItems": [
+      { "name": "Pancakes", "price": 700 },
+      { "name": "Omelette", "price": 500 },
+      { "name": "Smoothie Bowl", "price": 800 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "Burger Hub",
+    "city": "Tunis",
+    "country": "Tunisia",
+    "deliveryPrice": 120,
+    "estimatedDeliveryTime": 25,
+    "cuisines": ["Burgers"],
+    "menuItems": [
+      { "name": "Cheeseburger", "price": 900 },
+      { "name": "Veggie Burger", "price": 800 },
+      { "name": "BBQ Chicken Burger", "price": 1000 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "Cafe Culture",
+    "city": "Monastir",
+    "country": "Tunisia",
+    "deliveryPrice": 80,
+    "estimatedDeliveryTime": 15,
+    "cuisines": ["Cafe"],
+    "menuItems": [
+      { "name": "Cappuccino", "price": 500 },
+      { "name": "Croissant", "price": 300 },
+      { "name": "Fruit Tart", "price": 600 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "Dessert Delight",
+    "city": "Bizerte",
+    "country": "Tunisia",
+    "deliveryPrice": 90,
+    "estimatedDeliveryTime": 30,
+    "cuisines": ["Desserts"],
+    "menuItems": [
+      { "name": "Chocolate Cake", "price": 700 },
+      { "name": "Ice Cream Sundae", "price": 600 },
+      { "name": "Fruit Salad", "price": 400 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "Fast Food Fiesta",
+    "city": "Sfax",
+    "country": "Tunisia",
+    "deliveryPrice": 110,
+    "estimatedDeliveryTime": 20,
+    "cuisines": ["Fast Food"],
+    "menuItems": [
+      { "name": "French Fries", "price": 300 },
+      { "name": "Chicken Nuggets", "price": 600 },
+      { "name": "Soft Drink", "price": 200 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "French Bistro",
+    "city": "Nabeul",
+    "country": "Tunisia",
+    "deliveryPrice": 140,
+    "estimatedDeliveryTime": 30,
+    "cuisines": ["French"],
+    "menuItems": [
+      { "name": "Ratatouille", "price": 800 },
+      { "name": "Quiche Lorraine", "price": 900 },
+      { "name": "Crepes", "price": 700 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "Healthy Eats",
+    "city": "Tunis",
+    "country": "Tunisia",
+    "deliveryPrice": 100,
+    "estimatedDeliveryTime": 25,
+    "cuisines": ["Healthy"],
+    "menuItems": [
+      { "name": "Quinoa Bowl", "price": 800 },
+      { "name": "Salad", "price": 600 },
+      { "name": "Smoothie", "price": 500 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "Italian Delight",
+    "city": "Sousse",
+    "country": "Tunisia",
+    "deliveryPrice": 120,
+    "estimatedDeliveryTime": 30,
+    "cuisines": ["Italian"],
+    "menuItems": [
+      { "name": "Lasagna", "price": 1000 },
+      { "name": "Margherita Pizza", "price": 900 },
+      { "name": "Tiramisu", "price": 800 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "Japanese Garden",
+    "city": "Monastir",
+    "country": "Tunisia",
+    "deliveryPrice": 150,
+    "estimatedDeliveryTime": 30,
+    "cuisines": ["Japanese"],
+    "menuItems": [
+      { "name": "Ramen", "price": 1200 },
+      { "name": "Sushi Platter", "price": 1500 },
+      { "name": "Matcha Cake", "price": 900 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "Mediterranean Munchies",
+    "city": "Kairouan",
+    "country": "Tunisia",
+    "deliveryPrice": 130,
+    "estimatedDeliveryTime": 25,
+    "cuisines": ["Mediterranean"],
+    "menuItems": [
+      { "name": "Hummus", "price": 700 },
+      { "name": "Falafel", "price": 600 },
+      { "name": "Tzatziki", "price": 500 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "Mexican Fiesta",
+    "city": "Tunis",
+    "country": "Tunisia",
+    "deliveryPrice": 140,
+    "estimatedDeliveryTime": 30,
+    "cuisines": ["Mexican"],
+    "menuItems": [
+      { "name": "Tacos", "price": 800 },
+      { "name": "Burrito", "price": 900 },
+      { "name": "Churros", "price": 500 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "Middle Eastern Feast",
+    "city": "Bizerte",
+    "country": "Tunisia",
+    "deliveryPrice": 130,
+    "estimatedDeliveryTime": 25,
+    "cuisines": ["Middle Eastern"],
+    "menuItems": [
+      { "name": "Shawarma", "price": 900 },
+      { "name": "Falafel Wrap", "price": 800 },
+      { "name": "Baklava", "price": 500 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "Pasta Palace",
+    "city": "Tunis",
+    "country": "Tunisia",
+    "deliveryPrice": 120,
+    "estimatedDeliveryTime": 30,
+    "cuisines": ["Pasta"],
+    "menuItems": [
+      { "name": "Spaghetti Bolognese", "price": 900 },
+      { "name": "Fettuccine Alfredo", "price": 950 },
+      { "name": "Penne Arrabbiata", "price": 1300 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "Pizza Paradise",
+    "city": "Sousse",
+    "country": "Tunisia",
+    "deliveryPrice": 100,
+    "estimatedDeliveryTime": 20,
+    "cuisines": ["Pizza"],
+    "menuItems": [
+      { "name": "Pepperoni Pizza", "price": 900 },
+      { "name": "Vegetarian Pizza", "price": 800 },
+      { "name": "Margherita Pizza", "price": 700 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "Seafood Sensation",
+    "city": "Tunis",
+    "country": "Tunisia",
+    "deliveryPrice": 160,
+    "estimatedDeliveryTime": 35,
+    "cuisines": ["Seafood"],
+    "menuItems": [
+      { "name": "Grilled Salmon", "price": 1200 },
+      { "name": "Shrimp Cocktail", "price": 900 },
+      { "name": "Fish Tacos", "price": 800 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "Steak House",
+    "city": "Bizerte",
+    "country": "Tunisia",
+    "deliveryPrice": 180,
+    "estimatedDeliveryTime": 40,
+    "cuisines": ["Steak"],
+    "menuItems": [
+      { "name": "Ribeye Steak", "price": 1500 },
+      { "name": "Sirloin Steak", "price": 1400 },
+      { "name": "Filet Mignon", "price": 1600 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "Sushi Stop",
+    "city": "Sfax",
+    "country": "Tunisia",
+    "deliveryPrice": 140,
+    "estimatedDeliveryTime": 30,
+    "cuisines": ["Sushi"],
+    "menuItems": [
+      { "name": "California Roll", "price": 800 },
+      { "name": "Spicy Tuna Roll", "price": 900 },
+      { "name": "Sashimi Platter", "price": 1500 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "Tunisian Grill",
+    "city": "Kairouan",
+    "country": "Tunisia",
+    "deliveryPrice": 130,
+    "estimatedDeliveryTime": 35,
+    "cuisines": ["Tunisian"],
+    "menuItems": [
+      { "name": "Brik", "price": 500 },
+      { "name": "Couscous", "price": 900 },
+      { "name": "Mechouia Salad", "price": 600 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "Vegan Vibes",
+    "city": "Tunis",
+    "country": "Tunisia",
+    "deliveryPrice": 100,
+    "estimatedDeliveryTime": 25,
+    "cuisines": ["Vegan"],
+    "menuItems": [
+      { "name": "Chickpea Salad", "price": 600 },
+      { "name": "Vegan Burger", "price": 800 },
+      { "name": "Acai Bowl", "price": 700 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "Asian Delights",
+    "city": "Tunis",
+    "country": "Tunisia",
+    "deliveryPrice": 120,
+    "estimatedDeliveryTime": 30,
+    "cuisines": ["Asian"],
+    "menuItems": [
+      { "name": "Sushi Platter", "price": 1000 },
+      { "name": "Pad Thai", "price": 900 },
+      { "name": "Spring Rolls", "price": 700 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "Breakfast Bistro",
+    "city": "Bizerte",
+    "country": "Tunisia",
+    "deliveryPrice": 80,
+    "estimatedDeliveryTime": 25,
+    "cuisines": ["Breakfast"],
+    "menuItems": [
+      { "name": "Pancakes", "price": 500 },
+      { "name": "Omelettes", "price": 600 },
+      { "name": "Smoothie Bowl", "price": 700 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "Burger Haven",
+    "city": "Sousse",
+    "country": "Tunisia",
+    "deliveryPrice": 90,
+    "estimatedDeliveryTime": 20,
+    "cuisines": ["Burgers"],
+    "menuItems": [
+      { "name": "Classic Cheeseburger", "price": 800 },
+      { "name": "Bacon Burger", "price": 900 },
+      { "name": "Veggie Burger", "price": 700 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "Cafe Cozy",
+    "city": "Tunis",
+    "country": "Tunisia",
+    "deliveryPrice": 70,
+    "estimatedDeliveryTime": 15,
+    "cuisines": ["Cafe"],
+    "menuItems": [
+      { "name": "Cappuccino", "price": 400 },
+      { "name": "Croissant", "price": 300 },
+      { "name": "Cheesecake", "price": 500 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "Dessert Oasis",
+    "city": "Sfax",
+    "country": "Tunisia",
+    "deliveryPrice": 60,
+    "estimatedDeliveryTime": 20,
+    "cuisines": ["Desserts"],
+    "menuItems": [
+      { "name": "Chocolate Cake", "price": 600 },
+      { "name": "Ice Cream Sundae", "price": 500 },
+      { "name": "Baklava", "price": 400 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "Mediterranean Feast",
+    "city": "Kairouan",
+    "country": "Tunisia",
+    "deliveryPrice": 150,
+    "estimatedDeliveryTime": 30,
+    "cuisines": ["Mediterranean"],
+    "menuItems": [
+      { "name": "Falafel Wrap", "price": 700 },
+      { "name": "Hummus Plate", "price": 500 },
+      { "name": "Tabbouleh Salad", "price": 600 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  },
+  {
+    "restaurantName": "Healthy Eats",
+    "city": "Monastir",
+    "country": "Tunisia",
+    "deliveryPrice": 110,
+    "estimatedDeliveryTime": 25,
+    "cuisines": ["Healthy"],
+    "menuItems": [
+      { "name": "Quinoa Salad", "price": 800 },
+      { "name": "Grilled Chicken Bowl", "price": 900 },
+      { "name": "Fruit Smoothie", "price": 600 }
+    ],
+    "imageUrl": "https://placehold.co/1600x400",
+    "lastUpdated": "2024-09-27T00:00:00Z"
+  }
+]
